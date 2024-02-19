@@ -1,0 +1,33 @@
+body{
+    background-color: silver;
+}
+footer{
+    background-color: rgb(218, 204, 179);
+    padding: 20px;
+    text-align: center;
+}
+.Appetizers-section{
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+}
+.Appetizers-section img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+.main-section{
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+}
+.desert-section{
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+}
+form{
+    padding: 20px;
+    margin: 20px;
+    background-color: aliceblue;
+}
