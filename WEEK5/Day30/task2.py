@@ -1,0 +1,8 @@
+first_name = input("Enter your first name: ")
+age = int(input("Enter your age: "))
+height = float(input("Enter your height: "))
+weight = float(input("Enter your weight: "))
+BMI = weight / (height ** 2)
+print(f"Hello, {first_name}!")
+print("Square of your age is: ", age ** 2)
+print("Your BMI is: ", BMI)
