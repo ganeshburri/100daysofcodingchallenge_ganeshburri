@@ -8,6 +8,8 @@ def division():
         print("You cannot divide by zero!")
     except ValueError:
         print("You must enter a number!")
+    else:
+        print("Division was successful!")
 choice = input("Do you want to divide two numbers? (yes/no): ")
 while choice == "yes":
     division()
